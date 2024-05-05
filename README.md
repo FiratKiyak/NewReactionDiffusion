@@ -6,3 +6,6 @@ Boðaziçi University as a master's student. I have extended the reaction-diffusio
 of Alan Turing, and found that more complicated behaviour can be obtained with this
 extension. The visuals are more biological looking, and phenomenon like 
 regeneration and phase transitions can be observed. 
+
+Please see the videos. Project report is also present, but it does not talk about how this
+visuals are obtained, and it is a summary for previous related research.
