@@ -8,6 +8,6 @@ extension. The visuals are more biological looking, and phenomenon like
 regeneration and phase transitions can be observed. 
 
 Please see the videos. Project report is also present, but it does not talk about how this
-visuals are obtained, and it is a summary for previous related research.
+visuals are obtained. It is a survey for previous related research.
 
 Author: Fýrat Kýyak
